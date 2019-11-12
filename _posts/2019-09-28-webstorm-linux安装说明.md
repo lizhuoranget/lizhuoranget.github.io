@@ -1,4 +1,4 @@
-\---
+---
 
 layout:     post
 
@@ -16,9 +16,9 @@ catalog: true
 
 tags:
 
-\- Linux
+- Linux
 
-\---
+---
 
 # webstorm-linux安装说明 翻译：
 
