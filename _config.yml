@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 0cd0bf313f287a8d071f                            #生成的clientID
   clientSecret: 7954be2ee8a9d49a05a2605f87522e9a9359bc19    #生成的clientSecret
-  repo: lizhuoranget.github.io    #仓库名称
+  repo: https://github.com/lizhuoranget/lizhuoranget.github.io/issues    #仓库名称
   owner: lizhuoranget    #github用户名
   admin: lizhuoranget
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
