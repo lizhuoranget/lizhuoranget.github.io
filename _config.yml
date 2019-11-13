@@ -2,9 +2,9 @@
 title: LZR Blog
 SEOTitle: 李卓然的博客 | LZR Blog
 header-img: img/post-bg-desk.jpg
-email: lizhuoranget@outlook.com
+email: lizhuoranget@163.com
 description: "Every failure is leading towards success."
-keyword: "LZR, LZR Blog, 李卓然的博客, lizhuoran, 李卓然, iOS, Apple, iPhone"
+keyword: "LZR, LZR Blog, 李卓然的博客, lizhuoran, 李卓然, Apple, iPhone"
 url: "http://lizhuoranget.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lizhuoranget/lizhuoranget.github.io.git" # you code repository
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 0f062bf1884fb8b5a7b7282442f36b45
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
