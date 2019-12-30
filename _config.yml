@@ -1,10 +1,10 @@
 # Site settings
 title: ioz blog
-SEOTitle: 李卓然的自留地 | ioz Blog
+SEOTitle: 李卓然的自留地 | ioz blog
 header-img: img/post-bg-desk.jpg
 email: lizhuoranget@163.com
 description: "Every failure is leading towards success."
-keyword: "LZR, LZR Blog, 李卓然的博客, lizhuoran, 李卓然, Apple, iPhone"
+keyword: "ioz, ioz blog, 李卓然的博客, lizhuoran, 李卓然, Apple, iPhone"
 url: "http://lizhuoranget.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lizhuoranget/lizhuoranget.github.io.git" # you code repository
