@@ -1,7 +1,7 @@
 #!/bin/bash
 cd /Users/lizhuoran/Desktop/代码code/lizhuoranget.github.io
 
-msg=date+'%Y-%m-%d:%H:%M:%S'
+msg=date+“%Y-%m-%d:%H:%M:%S”
 
 git pull                   #拉取服务器代码
 git add -A              #提交所有变化
