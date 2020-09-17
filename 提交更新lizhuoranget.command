@@ -1,8 +1,7 @@
 #!/bin/bash
 cd /Users/lizhuoran/Desktop/代码code/lizhuoranget.github.io
 
-msg=`date+%Y-%m-%d:%H:%M:%S`
-d1=`date +%H:%M:%S`
+d1=`date +%Y-%m-%d:%H:%M:%S`
 echo "The Script begin at $d1."
 
 git pull                   #拉取服务器代码
