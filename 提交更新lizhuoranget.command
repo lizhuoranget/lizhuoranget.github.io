@@ -1,7 +1,7 @@
 #!/bin/bash
 cd /Users/lizhuoran/Desktop/代码code/lizhuoranget.github.io
 
-msg=date+"%Y-%m-%d:%H:%M:%S"
+msg=`date+%Y-%m-%d:%H:%M:%S`
 d1=`date +%H:%M:%S`
 echo "The Script begin at $d1."
 
