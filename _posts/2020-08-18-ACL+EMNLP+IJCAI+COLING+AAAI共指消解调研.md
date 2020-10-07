@@ -7,7 +7,7 @@ author:     lizhuoran
 header-img: img/post-bg-acl.jpg
 catalog: true
 tags:
-- 指代消解
+- 共指消解
 ---
 ## 1 Incorporating Structural Information for Better Coreference Resolution（2019,IJCAI）
 
@@ -43,7 +43,7 @@ tags:
 
 ## 9 Triad-based Neural Network for Coreference Resolution（COLING,2018）
 
-我们提出了一个基于三元组的神经网络系统来产生实体间的亲和力得分，以进行共指消解。该系统同时接受三个实体作为输入，考虑了三个实体的相互依赖性和逻辑约束，从而比传统的成对预测方法更准确。根据系统选择，亲和力得分可以进一步用于聚类或提及排名。我们的实验表明，在CoNLL 2012共享任务的英语部分，使用分数的标准分层聚类产生了MUC和$B^3​$​指标的最新结果。该模型不依赖于许多手工特征，并且易于训练和使用。三元组也可以很容易地推广到更高阶的多元体。据我们所知，这是第一个神经网络系统模型的相互依赖超过两个实体成员。
+我们提出了一个基于三元组的神经网络系统来产生实体间的亲和力得分，以进行共指消解。该系统同时接受三个实体作为输入，考虑了三个实体的相互依赖性和逻辑约束，从而比传统的成对预测方法更准确。根据系统选择，亲和力得分可以进一步用于聚类或提及排名。我们的实验表明，在CoNLL 2012共享任务的英语部分，使用分数的标准分层聚类产生了MUC和$B^3$​指标的最新结果。该模型不依赖于许多手工特征，并且易于训练和使用。三元组也可以很容易地推广到更高阶的多元体。据我们所知，这是第一个神经网络系统模型的相互依赖超过两个实体成员。
 
 ## 10 *They* Exist! Introducing Plural Mentions to Coreference Resolution and Entity Linking（COLING,2018）
 
