@@ -29,6 +29,9 @@ ShannonAI
 
 <div contenteditable="plaintext-only"><center class="half">
     <img src="https://lizhuoranget.github.io/images/20201014CorefQA/archi.png" width="100%" >
-    <p>图2 CorefQA模型整体架构图</p>
+    <p>图1 CorefQA模型整体架构图</p>
 </center></div>
 
+##### 1 描述
+
+给出一个文档的字符序列$X={x_1, X_2, …, x_n}$，$n$是文档的长度。那么X中所有可能的文本范围数是$N=n*(n+1)/2$。
