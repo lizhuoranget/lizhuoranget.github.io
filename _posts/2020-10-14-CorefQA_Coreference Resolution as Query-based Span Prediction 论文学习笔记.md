@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      CorefQA: Coreference Resolution as Query-based Span Prediction 论文学习笔记
+title:      CorefQA_Coreference Resolution as Query-based Span Prediction 论文学习笔记
 subtitle:   Wei Wu, Fei Wang, Arianna Yuan, Fei Wu and Jiwei Li
 date:       2020-10-14
 author:     Zhuoran Li
