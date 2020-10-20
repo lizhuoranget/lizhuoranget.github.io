@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      论文学习《Active Learning for Coreference Resolution using Discrete Annotation》.md
+title:      论文学习《Active Learning for Coreference Resolution using Discrete Annotation》
 subtitle:  基于离散标注的共指消解主动学习
 date:       2020-10-19
 author:     Zhuoran Li
