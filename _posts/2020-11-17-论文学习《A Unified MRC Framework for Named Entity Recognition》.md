@@ -27,7 +27,7 @@ NER命名实体识别通常分为嵌入式和平面式两种。模型也通常�
 本文在嵌入式和平面式数据集上都进行了实验。结果证明了有效性。在当前嵌入式的SOTA模型上有了大的提升，ACE04 +1.28，ACE05 +2.55， GENIA +5.44， KBP17 +6.37。在平面式数据集一样提升了，English CoNLL 2003 +0.24, English OntoNotes 5.0 + 1.95, Chinese MSRA +0.21, Chinese OntoNotes 4.0 +1.49。
 
 <div contenteditable="plaintext-only"><center class="half">
-    <img src="https://lizhuoranget.github.io/images/20201117/1.png" width="100%" >
+    <img src="https://lizhuoranget.github.io/images/20201117NER_MRC/1.png" width="100%" >
     <p>图1 GENIA和ACE04中的嵌入式实体例子</p>
 </center></div>
 
