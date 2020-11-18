@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      COMP6490《Document Analysis》复习题目
+subtitle:   
+date:       2020-11-14
+author:     Zhuoran Li
+catalog:    true
+tags:
+      - NLP
+---
+
 ## 计算
 
 1. TF-IDF、cos
