@@ -2,13 +2,13 @@
 
 layout:     post
 
-title:      webstorm-linux安装说明
+title:      技术文档《webstorm-linux安装说明》
 
 subtitle:   翻译
 
 date:       2019-09-28
 
-author:     lizhuoran
+author:     Zhuoran Li
 
 header-img: img/post-bg-linux.jpg
 
@@ -17,6 +17,7 @@ catalog: true
 tags:
 
 - Linux
+- 技术文档
 
 ---
 

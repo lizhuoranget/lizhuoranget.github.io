@@ -3,11 +3,11 @@ layout:     post
 title:      论文学习《Sequence-to-Sequence Learning via Shared Latent Representation》
 subtitle:   支持不同模态信息进行转换的星状模型
 date:       2018-08-15
-author:     lizhuoran
+author:     Zhuoran Li
 header-img: img/post-bg-posthk-web.jpg
 catalog:    true
 tags:
-- 文献
+- 多模态
 ---
 
 ![](https://images.ifanr.cn/wp-content/uploads/2018/06/WWDC-10.jpg)

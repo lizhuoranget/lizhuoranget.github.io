@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      20件我读博开始时想要知道的事情
+title:      转载系列《20件我读博开始时想要知道的事情》
 subtitle:   20件我读博开始时想要知道的事情
 date:       2020-01-16
 author:     lizhuoran
 header-img: img/tag-bg-o.jpg
 catalog: true
 tags:
-- 博士
-- 生活
+- 转载
+- 读博
 ---
 ## Twenty things I wish I’d known when I started my PhD
 
