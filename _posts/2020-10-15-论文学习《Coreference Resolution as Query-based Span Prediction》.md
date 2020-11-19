@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      CorefQA论文学习笔记
-subtitle:   Coreference Resolution as Query-based Span Prediction
+title:      论文学习《Coreference Resolution as Query-based Span Prediction》
+subtitle:   共指消解看作基于查询的范围预测
 date:       2020-10-15
 author:     Zhuoran Li
 header-img: img/post-bg-posthk-web.jpg
@@ -33,9 +33,9 @@ ShannonAI
 
 ##### 1 描述
 
-给出一个文档的字符序列$X={x_1, X_2, …, x_n}​$，$n​$是文档的长度。那么$X​$中所有可能的文本范围数是$N=n*(n+1)/2​$。$e_i​$表示第$i​$个文本范围，$1 \leq i \leq N​$，起始索引和结尾索引分别是FIRST(i)和LAST(i)。$e_i=\{x_{FIRST(i)}, x_{FIRST(i+1)}, …, x_{LAST(i-1)}, x_{LAST(i)}\}​$。
+给出一个文档的字符序列$X={x_1, X_2, …, x_n}$，$n$是文档的长度。那么$X$中所有可能的文本范围数是$N=n*(n+1)/2$。$e_i$表示第$i$个文本范围，$1 \leq i \leq N$，起始索引和结尾索引分别是FIRST(i)和LAST(i)。$e_i=\{x_{FIRST(i)}, x_{FIRST(i+1)}, …, x_{LAST(i-1)}, x_{LAST(i)}\}$。
 
-共指消解任务是从所有可能的范围中确定先行词。如果一个范围$e_i​$不表示一个实体，或者不存在共指的实体，那么为其分配一个虚假先行词$\epsilon​$。所有可能范围$e​$的链接定义最终的类。
+共指消解任务是从所有可能的范围中确定先行词。如果一个范围$e_i$不表示一个实体，或者不存在共指的实体，那么为其分配一个虚假先行词$\epsilon$。所有可能范围$e$的链接定义最终的类。
 
 ##### 2 输入表示
 
@@ -75,7 +75,7 @@ $$s(i,j)=s_m(i)+s_m(j)+s_a(i,j)$$
 
 ##### 5 先行词剪枝
 
-由于n个字符的文档的范围数量级是$O(n^2)​$，公式(5)的计算复杂度是$O(n^4)​$。由于对于$e_i​$考虑所有的$e_j​$也是计算复杂的，因为每次还要基于问答模块计算$s_a(i|j)​$。所以，这里对$q(e_i)​$，仅基于$s_a(j|i)​$得分筛选出C个候选范围。
+由于n个字符的文档的范围数量级是$O(n^2)$，公式(5)的计算复杂度是$O(n^4)$。由于对于$e_i$考虑所有的$e_j$也是计算复杂的，因为每次还要基于问答模块计算$s_a(i|j)$。所以，这里对$q(e_i)$，仅基于$s_a(j|i)$得分筛选出C个候选范围。
 
 ##### 6 训练
 

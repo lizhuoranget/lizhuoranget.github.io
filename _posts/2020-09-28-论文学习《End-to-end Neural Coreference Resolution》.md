@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      共指消解文章学习笔记
+title:      论文学习《End-to-end Neural Coreference Resolution》
 subtitle:   问题理解以及代码阅读
 date:       2020-09-28
 author:     Zhuoran Li

@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      PyTorch 学习2
-subtitle:   LEARNING PYTORCH WITH EXAMPLES
+title:      PyTorch学习2《LEARNING PYTORCH WITH EXAMPLES》
+subtitle:   通过例子学习PyTorch
 date:       2020-08-10
 author:     Zhuoran Li
 header-img: img/post-bg-pytorch.jpg

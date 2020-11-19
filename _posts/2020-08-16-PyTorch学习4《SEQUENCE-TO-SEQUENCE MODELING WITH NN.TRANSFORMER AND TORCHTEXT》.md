@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      PyTorch 学习4
-subtitle:   SEQUENCE-TO-SEQUENCE MODELING WITH NN.TRANSFORMER AND TORCHTEXT
+title:      PyTorch 学习《SEQUENCE-TO-SEQUENCE MODELING WITH NN.TRANSFORMER AND TORCHTEXT》
+subtitle:   SEQUENCE-TO-SEQUENCE模型和nn.Transformer和TorchText
 date:       2020-08-16
 author:     Zhuoran Li
 header-img: img/post-bg-pytorch.jpg

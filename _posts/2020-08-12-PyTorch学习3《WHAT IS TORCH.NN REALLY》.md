@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      PyTorch 学习3
-subtitle:   WHAT IS TORCH.NN REALLY?
+title:      PyTorch学习3《WHAT IS TORCH.NN REALLY?》
+subtitle:   什么是torch.nn?
 date:       2020-08-12
 author:     Zhuoran Li
 header-img: img/post-bg-pytorch.jpg

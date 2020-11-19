@@ -1,12 +1,14 @@
 ---
 layout:     post
-title:      COMP6490《Document Analysis》复习题目
-subtitle:   
+title:      课程总结《COMP6490--Document Analysis》
+subtitle:   NLP, ML, IR
 date:       2020-11-14
 author:     Zhuoran Li
 catalog:    true
 tags:
       - NLP
+      - ML
+      - IR
 ---
 
 ## 计算

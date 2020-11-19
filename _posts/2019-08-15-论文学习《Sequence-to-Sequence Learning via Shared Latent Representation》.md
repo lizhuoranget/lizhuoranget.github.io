@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Sequence-to-Sequence Learning via Shared Latent Representation
+title:      论文学习《Sequence-to-Sequence Learning via Shared Latent Representation》
 subtitle:   支持不同模态信息进行转换的星状模型
 date:       2018-08-15
 author:     lizhuoran
