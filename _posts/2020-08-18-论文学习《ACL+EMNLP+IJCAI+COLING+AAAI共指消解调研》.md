@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      ACL+EMNLP+IJCAI+COLING+AAAI共指消解调研
+title:      论文学习《ACL+EMNLP+IJCAI+COLING+AAAI共指消解调研》
 subtitle:   
 date:       2020-08-18
 author:     lizhuoran
