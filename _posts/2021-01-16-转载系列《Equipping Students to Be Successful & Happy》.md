@@ -1,7 +1,6 @@
 ---
 layout:     post
-title:      转载系列《Equipping Students to Be Successful & Happy
-40 Powerful Quotes That Will Motivate You to Study》
+title:      转载系列《Equipping Students to Be Successful & Happy 40 Powerful Quotes That Will Motivate You to Study》
 subtitle:   
 date:       2020-01-16
 author:     Zhuoran Li
