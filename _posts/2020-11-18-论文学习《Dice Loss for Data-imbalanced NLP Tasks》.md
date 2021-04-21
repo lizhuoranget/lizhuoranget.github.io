@@ -8,7 +8,6 @@ header-img: img/post-bg-posthk-web.jpg
 catalog:    true
 tags:
       - NLP
-      - 自然语言处理
       - 命名实体识别
 ---
 
